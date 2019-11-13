@@ -1,4 +1,9 @@
 .App {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: rgb(245,245,245);
   text-align: center;
 }
 
